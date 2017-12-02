@@ -1,0 +1,6 @@
+[package]
+name = "hhmm1st"
+version = "1.0.0"
+authors = ["aimy"]
+
+[dependencies]
